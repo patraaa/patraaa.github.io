@@ -1,0 +1,20 @@
+.jumbotron {
+    padding-top: 6rem;
+}
+
+.jumbotron img {
+    width: 200px;
+    height: 200px;
+}
+
+.jumbotron H1 {
+    color: rgb(0, 0, 0);
+}
+.jumbotron p {
+    color: rgb(255, 255, 255);
+}
+
+section {
+    padding-top: 5rem;
+}
+
